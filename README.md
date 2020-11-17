@@ -10,7 +10,7 @@ Interested in low-level programming and data science among other fields.
 ## Recent Activity
 
 Check out my latest GitHub addition, the general code for my bachelor thesis project:
-[README.md](https://github.com/carllutnaes/replicating_anomaly_ROE)
+[replicating\_anomaly\_ROE](https://github.com/carllutnaes/replicating_anomaly_ROE)
 
 
 ## Upcomming
