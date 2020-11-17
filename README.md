@@ -35,12 +35,6 @@ Ericsson has applied for patent rights on proposed solution, crediting me as 1 o
 
 
 ### LinkedIn
-<style>
-aa {
-  color: black;  
-}
-
-
 </style>
 
 <p style="aba">
