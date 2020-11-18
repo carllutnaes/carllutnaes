@@ -16,9 +16,6 @@ Check out my latest GitHub addition, the general code for my bachelor thesis pro
 ## Upcomming
 In progress of uploading more projects here, comming soon!
 
-- C++ Project with Raspberry Pis
-- Basic Reinforcment Learning Project
-
 
 ## Other
 
