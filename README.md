@@ -9,12 +9,7 @@ Interested in low-level programming and data science among other fields.
 
 ## Recent Activity
 
-Check out my latest GitHub addition, the general code for my bachelor thesis project:
-[replicating\_anomaly\_ROE](https://github.com/carllutnaes/replicating_anomaly_ROE)
-
-
-## Upcomming
-In progress of uploading more projects here, comming soon!
+Check out my latest GitHub project: [A Journey of The C++ STL Algorithms Library](https://github.com/carllutnaes/journey_of_cpp_stl_algorithms_library)
 
 
 ## Other
@@ -30,6 +25,8 @@ Ericsson has applied for patent rights on proposed solution, crediting me as 1 o
 
 **URL:** [Lutnaes, C. och Eriksson, M. (2020). ROE som marknadsanomali: en replikeringstudie på svenska marknaderna](http://www.diva-portal.org/smash/record.jsf?dswid=6185&pid=diva2%3A1395258&c=2&searchType=SIMPLE&language=en&query=carl+lutnaes&af=%5B%5D&aq=%5B%5B%5D%5D&aq2=%5B%5B%5D%5D&aqe=%5B%5D&noOfRows=50&sortOrder=author_sort_asc&sortOrder2=title_sort_asc&onlyFullText=false&sf=all)
 
+Link to the general code used: 
+[replicating\_anomaly\_ROE](https://github.com/carllutnaes/replicating_anomaly_ROE)
 
 ### LinkedIn
 
